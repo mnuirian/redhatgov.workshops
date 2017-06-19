@@ -7,7 +7,7 @@
 #                        ensure easy cleanup and 
 #                        identifcation.
 #####################################################
-workshop_prefix:              "changeme"
+workshop_prefix:              "Partner-Training-21-Jun-2017"
 
 system_user:                  "ec2-user"    # AWS
 # system_user:                 "vagrant"    # vagrant
